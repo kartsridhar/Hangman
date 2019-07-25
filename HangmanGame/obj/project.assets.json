@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fcb10\\source\\repos\\HangmanGame\\HangmanGame.csproj",
+      "projectUniqueName": "C:\\Users\\fcb10\\Documents\\C#\\Hangman\\HangmanGame\\HangmanGame.csproj",
       "projectName": "HangmanGame",
-      "projectPath": "C:\\Users\\fcb10\\source\\repos\\HangmanGame\\HangmanGame.csproj",
+      "projectPath": "C:\\Users\\fcb10\\Documents\\C#\\Hangman\\HangmanGame\\HangmanGame.csproj",
       "packagesPath": "C:\\Users\\fcb10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fcb10\\source\\repos\\HangmanGame\\obj\\",
+      "outputPath": "C:\\Users\\fcb10\\Documents\\C#\\Hangman\\HangmanGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
