@@ -2,7 +2,7 @@
 My first C# console application. 
 
 ### Output
-![](solution.jpg)
+![](solution.JPG)
 
 ### Todo
 * Add difficulty levels
