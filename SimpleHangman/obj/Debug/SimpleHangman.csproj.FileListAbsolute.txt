@@ -1,0 +1,7 @@
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\bin\Debug\SimpleHangman.exe.config
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\bin\Debug\SimpleHangman.exe
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\bin\Debug\SimpleHangman.pdb
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\obj\Debug\SimpleHangman.csprojAssemblyReference.cache
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\obj\Debug\SimpleHangman.csproj.CoreCompileInputs.cache
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\obj\Debug\SimpleHangman.exe
+C:\Users\fcb10\Documents\C#\Hangman\SimpleHangman\obj\Debug\SimpleHangman.pdb
